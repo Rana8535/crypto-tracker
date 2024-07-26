@@ -25,7 +25,7 @@ const Footer = () => {
         </VStack>
 
         <VStack>
-          <Text>Ankur,Navneet</Text>
+          <Text>Ankur Rana</Text>
         </VStack>
       </Stack>
     </Box>
